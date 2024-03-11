@@ -20,10 +20,6 @@ window.addEventListener('scroll', function(){
     /* text.style.marginTop = value * -1.5 + 'px'; */
     btn.style.marginTop = value * 0.5 + 'px';
     header.style.top = value * 0.5 + 'px';
-
-   
-     
-    /* mountains_front.style.zoom = value * -1.0 + 'px'; */
 })
 
 
